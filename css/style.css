@@ -30,6 +30,11 @@ nav {
   height: var(--height);
   margin-bottom: 2rem;
 }
+.logo {
+  align-items: center;
+  font-size: 4rem;
+  gap: 2rem;
+}
 footer {
   height: var(--height);
   margin-top: 2rem;
